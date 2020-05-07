@@ -1,0 +1,10 @@
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.FormTemp.resources
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.Cache
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+Z:\Spring 18\Programming 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
